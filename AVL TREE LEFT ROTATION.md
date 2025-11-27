@@ -1,4 +1,4 @@
-# Ex. No: 16E - Perform Left Rotation in AVL Tree and Insert '7'
+# Ex. No: 16A - Perform Left Rotation in AVL Tree and Insert '7'
 
 ## AIM:
 To write a Python function `def leftRotate(self, z):` to perform the left rotation operation in an AVL Tree and insert the element '7' into it.
